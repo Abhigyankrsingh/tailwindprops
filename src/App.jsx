@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      
+      <h1>Tailwind test</h1>
     </>
   )
 }
