@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Card = ({username, btnText}) => {
+const Card = ({username, btnText= "visit me"}) => {
   return (
     <div className="relative h-[400px] w-[300px] rounded-md">
       <img
