@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Card = ({username}) => {
+const Card = ({username, btnText}) => {
   return (
     <div className="relative h-[400px] w-[300px] rounded-md">
       <img
@@ -15,8 +15,8 @@ const Card = ({username}) => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
           debitis?
         </p>
-        <button className="inline-flex items-center mt-2 text-sm font-semibold text-white cursor-pointer">
-          View Profile →
+        <button className="inline-flex items-center mt-2 text-sm font-semibold text-black cursor-pointer">
+         {btnText} →
         </button>
       </div>
     </div>
