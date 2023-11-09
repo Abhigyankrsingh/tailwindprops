@@ -10,7 +10,7 @@ function App() {
     <>
       <h1 className='bg-green-400'>Tailwind test</h1>
       <figure class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
-  <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/sarah-dayan.jpg" alt="" width="384" height="512"/>
+  <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="https://wallpapers.com/images/featured/sukuna-4k-do5f4d61t6h4j945.jpg" alt="" width="384" height="512"/>
   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p class="text-lg font-medium">
@@ -21,10 +21,10 @@ function App() {
     </blockquote>
     <figcaption class="font-medium">
       <div class="text-sky-500 dark:text-sky-400">
-        Sarah Dayan
+        Sukana
       </div>
       <div class="text-slate-700 dark:text-slate-500">
-        Staff Engineer, Algolia
+        Software Engineer,Google
       </div>
     </figcaption>
   </div>
